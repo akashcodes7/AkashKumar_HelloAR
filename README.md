@@ -1,5 +1,4 @@
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1NdaO0MDK7At1jHTN9wOtP7Enzrmp7-S3/view?usp=sharing))
-
+![alt text](https://github.com/akashcodes7/AkashKumar_HelloAR/blob/main/ss.jpeg?raw=true)
 
 # Used Library
 
